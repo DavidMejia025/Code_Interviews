@@ -1,6 +1,10 @@
+#Computer
+* David
++ Joshua
+
 # Ruby
-1. clase: una clase es un modelo para hacer objetos
-   objeto: un contenendor de duatos asociado a  atributos y metodos
+1. #clase: una clase es un modelo para hacer objetos
+   #objeto: un contenendor de duatos asociado a  atributos y metodos
 2. herencia: * es la capacidad que tiene una clase para tomar metodos de otra clase
    # mecanismo de reutilizacion de codigo
 3. #La tendencia de ruby de centrarce menos en la clase de un objeto y dar prioridad a su comportamiento se llama duck typing porque si camina como un pato come como un pato y nada como un pato entonces es un pato. Siempre trata a los objetos por lo que pueden hacer
